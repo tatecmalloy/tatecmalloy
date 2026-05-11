@@ -6,5 +6,3 @@ I am a Computer Science student at Boise State University specializing in object
 * ⚙️ **Core Focus:** Event-driven programming, state machine architecture, and complex user-facing logic. 
 
 **Note on Contributions:** My primary daily code commits, interactive mechanics, and indie projects are actively developed and maintained under my creator studio alias: [@foxboxboy](https://github.com/foxboxboy).
-
-Below are my curated academic and foundational implementations:
